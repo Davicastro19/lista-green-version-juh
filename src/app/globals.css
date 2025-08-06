@@ -1,0 +1,188 @@
+
+@import "tailwindcss";
+
+
+:root {
+  --bluel: #00D1FF;
+  --blued: #004972;
+  --orangel: #FFDEAC;
+  --oranged: #EB8D00;
+  --greenl: #A3FFA6;
+  --greend: #33A838;
+  --yellowl: #FAE058;
+  --yellowd: #ffca41;
+  --bluel: #eb8dff;
+  --bluel: #A162D3;
+  --ndd: #9e9e9e;
+  --ndl: #afadb1;
+  --background: #ffffff;
+  --foreground: #004643;
+  --basegreen: #18B28C;
+  --glowgreen: #02ca9b;
+  --fulldarkgreen: #014233;
+  --lightgreen: #0FEDD0;
+  --darkgreen: #26847B;
+  --darkgreenhome: #26847B;
+  --graygreen: #5b9285;
+  --lightgreen2: #A3C57D;
+  --darkgreen2: #086546;
+  --graygreen2: #DAF7E9;
+  --base:#f5f5f5;
+  --radius: 0.5rem;
+}
+
+.dark{
+ --bluel: #00D1FF;
+  --blued: #004972;
+  --orangel: #FFDEAC;
+  --oranged: #EB8D00;
+  --greenl: #A3FFA6;
+  --greend: #33A838;
+  --yellowl: #FAE058;
+  --yellowd: #ffca41;
+  --bluel: #eb8dff;
+  --bluel: #A162D3;
+  --ndd: #9e9e9e;
+  --ndl: #afadb1;
+  --background: #ffffff;
+  --foreground: #004643;
+  --basegreen: #18B28C;
+  --glowgreen: #02ca9b;
+  --fulldarkgreen: #014233;
+  --lightgreen: #0FEDD0;
+  --darkgreen: #26847B;
+  --darkgreenhome: #26847B;
+  --graygreen: #5b9285;
+  --lightgreen2: #A3C57D;
+  --darkgreen2: #086546;
+  --graygreen2: #DAF7E9;
+  --base:#f5f5f5;
+  --radius: 0.5rem;
+}
+/*.dark {
+/*  --background: #004643;
+/*  --foreground: #ededed;
+/*  --basegreen: #18B28C;
+/*  --glowgreen: #00FFC2;
+/*  --glowgreenlight: #00FFC2;
+/*  --lightgreen: #18B28C;
+/*  --darkgreenhome: #004643;
+/*  --darkgreen: #00FFC2;
+/*  --bggreen: #a3c5bd;
+/*  --lightgreen2: #A3C57D;
+/*  --darkgreen2: #0FEDD0;
+/*  --bggreen2: #003E3E;
+}*/
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+  transition: background 0.3s, color 0.3s;
+}
+
+@layer base {
+  :root {
+    --primary: var(--basegreen);
+    --primary-foreground: var(--background);
+
+    --secondary: var(--bggreen);
+    --secondary-foreground: var(--darkgreen);
+
+    --card: var(--bggreen2);
+    --card-foreground: var(--foreground);
+
+    --popover: var(--background);
+    --popover-foreground: var(--foreground);
+
+    --muted: var(--bggreen);
+    --muted-foreground: var(--darkgreen);
+
+    --accent: var(--lightgreen2);
+    --accent-foreground: var(--darkgreen2);
+
+    --destructive: #ff0000;
+    --destructive-foreground: var(--background);
+
+    --border: var(--darkgreen);
+    --input: var(--darkgreen);
+    --ring: var(--glowgreen);
+  }
+}
+/* Esconde a barra de rolagem mas ainda permite a rolagem */
+nav::-webkit-scrollbar {
+  width: 0px; /* Não aparece a barra de rolagem */
+  height: 0px;
+}
+
+nav {
+  -ms-overflow-style: none; /* Para o Internet Explorer */
+  scrollbar-width: none; /* Para o Firefox */
+}
+
+
+.my-content-box a {
+  color: #26847B
+}
+
+.my-content-box p {
+  margin-bottom: 20px; /* Ou qualquer valor que você deseje */
+}
+
+.my-content-box img {
+  border-radius: 2%;
+  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.5);
+}
+
+/* Estilos para h1 */
+.my-content-box h1 {
+  font-size: 2.5em; /* 40px ou o que se adapte melhor */
+  font-weight: 700;
+}
+
+/* Estilos para h2 */
+.my-content-box h2 {
+  font-size: 2em; /* 32px */
+  font-weight: 700;
+}
+
+/* Estilos para h3 */
+.my-content-box h3 {
+  font-size: 1.75em; /* 28px */
+  font-weight: 600;
+}
+
+/* Estilos para h4 */
+.my-content-box h4 {
+  font-size: 1.5em; /* 24px */
+  font-weight: 500; /* medium */
+}
+
+/* Estilos para h5 */
+.my-content-box h5 {
+  font-size: 1.25em; /* 20px */
+  font-weight: 400; /* normal */
+}
+
+/* Estilos para h6 */
+.my-content-box h6 {
+  font-size: 1em; /* 16px */
+  font-weight: 400; /* normal */
+}
+@keyframes slide {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-100%); }
+}
+
+
+/* Esconde a barra de rolagem completamente */
+::-webkit-scrollbar {
+  width: auto;
+  height: 1px;
+  background: red;
+}
+
+* {
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* Internet Explorer e Edge */
+}

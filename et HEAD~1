@@ -1,0 +1,325 @@
+[33ma3dbd29[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m up
+[33m746eeb1[m up
+[33m3cbe726[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m up
+[33m88fd5e5[m up
+[33m895292a[m up
+[33m3c6ce97[m up
+[33mf2480f7[m up
+[33mffd6625[m up
+[33mb03d52a[m up
+[33m21d60b7[m up
+[33m7e3f9d3[m ip
+[33m17de9c1[m sd
+[33m59861d8[m up
+[33md3614cd[m up
+[33m5f087c3[m up
+[33m06af253[m up
+[33md2b1f06[m up
+[33mdf28da2[m up
+[33mdf2f765[m up
+[33mf8ce6e2[m up
+[33m4e7d2d6[m up
+[33m08fa750[m up
+[33m84fddec[m up
+[33mca04622[m pi
+[33m78a138a[m feat: adicionar página de benefícios com controle de acesso para membros
+[33m66f8df7[m up
+[33m7f0160c[m feat: adicionar página de benefícios com controle de acesso para membros
+[33mc2621ac[m feat: atualizar título da página de exploração e melhorar mensagem de busca vazia
+[33ma7189aa[m feat: adicionar páginas de exploração e artigo, implementar geração de metadados e tratamento de erros
+[33m189a340[m up
+[33m6bb4e48[m feat: refatorar configuração do Next.js, otimizar tratamento de imagens e adicionar novas páginas de compartilhamento
+[33m6d46069[m feat: melhorar a geração de metadados e tratamento de erros na página de negócios
+[33m85fc3e8[m feat: melhorar a geração de metadados e tratamento de erros na página de negócios
+[33m9ab7f30[m feat: melhorar a geração de metadados e tratamento de erros na página de negócios
+[33m615dd7f[m feat: melhorar a geração de metadados e tratamento de erros na página de negócios
+[33m26779d8[m feat: atualizar metadados e ícones no layout, corrigir erro de digitação e ajustar classes no BannerSlider e CardSwiper
+[33mfd3bd0b[m feat: adicionar tratamento de erro simplificado no login e implementar carregamento em página de negócios
+[33m7e40f71[m feat: melhorar validações e mensagens de erro nos schemas de empresa e usuário
+[33m381a0fc[m up
+[33md20eb43[m feat: melhorar validações e mensagens de erro nos schemas de empresa e usuário
+[33m5fc2c18[m feat: melhorar validações e mensagens de erro nos schemas de empresa e usuário
+[33m522b73f[m feat: aumentar limite de caracteres para campos de nome e descrição em schemas de empresa e usuário
+[33me8a3803[m feat: corrigir mensagem de erro para limite de caracteres da descrição da empresa
+[33m910b5c4[m feat: aumentar limite de caracteres para descrição da empresa para 400
+[33ma5ca2f0[m feat: adicionar novos arquivos de imagem à lista de recursos
+[33mb286dc1[m feat: adicionar nova categoria 'Master Class' com vídeo e capítulos detalhados
+[33mb7de266[m feat: corrigir título do modal de exclusão para 'Excluir Usuário'
+[33mbbd988d[m feat: ajustar estilo de imagens para melhor adaptação em diferentes tamanhos de tela
+[33mbe28f89[m feat: alterar navegação para voltar à página anterior e ajustar layout de tags
+[33m810a0bb[m feat: adicionar suporte a banners com modal de exclusão e melhorias na interface
+[33ma74798d[m feat: adicionar modal de confirmação para exclusão de tags e melhorar layout de componentes
+[33m19f8dee[m feat: atualizar interfaces e componentes para suporte a novas propriedades e ajustes de layout
+[33m5fd3f76[m feat: ajustar espaçamento e dimensões em componentes de lista e navegação
+[33mf19fbdf[m feat: ajustar espaçamento e dimensões em componentes de lista e navegação
+[33m22f874b[m feat: atualizar navegação de perfil e adicionar configurações de conta
+[33mbb0626a[m feat: alterar rótulo e placeholder para português no modal de conclusão de usuário
+[33m0bd4e12[m feat: adicionar nova rota pública para a lista salva no middleware
+[33m35edbf1[m feat: aprimorar lógica de tratamento de areaname em componentes de lista
+[33m92a4491[m feat: atualizar URLs base e corrigir navegação em componentes de lista
+[33m9a9c439[m version v3
+[33m655144d[m up
+[33m352a0d7[m feat: atualizar lógica de substituição de imagem e aprimorar tratamento de areaname na BusinessCard
+[33me09baa1[m up
+[33me5e4f8a[m feat: melhorar lógica de substituição de imagem e tratamento de areaname na BusinessCard
+[33mf577ca8[m feat: corrigir lógica de definição de areaname para melhor tratamento de áreas
+[33m278b367[m feat: adicionar funcionalidade de exclusão de empresa com confirmação
+[33m49dd20e[m feat: substituir NegocioCard por BusinessCard e adicionar funcionalidade de edição de empresas
+[33me351a7c[m feat: refatorar criação de slug e melhorar validações de descrição
+[33m7ca80aa[m fix: atualizar URL de busca de empresas para usar constante BASE
+[33mb81c7be[m feat: adicionar funcionalidade de cópia de número de telefone e melhorias na paginaço
+[33m6bf7f89[m feat: adicionar funcionalidade de exclusão de usuário com confirmação
+[33m09bffba[m fix: normalize slug creation and update URL handling
+[33mfe7f089[m fix: create slug
+[33ma3c3287[m up: lista
+[33m6c049e0[m up
+[33m435e936[m up
+[33m5762629[m up
+[33me2889ee[m update screen lista promoçoes
+[33mf57df65[m update screen lista promoçoes
+[33mc79b1f0[m style: color description
+[33m434ad91[m feat: Alteração na implemetaçao de listas de promções - solicitação: bernado
+[33md5d14ab[m style: cards busca | fix: random listas e area item
+[33m512c07a[m feat: random busca
+[33m8acba87[m feat: random busca
+[33ma6a05d2[m fix: resolve
+[33m5463fac[m up
+[33ma1ce5b5[m fix: resolve articles, heart and style
+[33mf41272d[m up
+[33m754ba5c[m fix: search click
+[33mb954c7f[m fix: add video
+[33mafbaaae[m up
+[33m7afa460[m fix: mutate search value
+[33m910df85[m fix: mutate search
+[33m49d7197[m fix: redirect items
+[33m0d37e16[m fix: redirect items
+[33m1828fcd[m fix: temp mock data suggest
+[33m79f4c32[m up
+[33mb6b054e[m fix: const validate up location
+[33mf1684b1[m fix: corrigidos problemas de requisição desnecessaria em busca
+[33mfb4690a[m fix: corrigidos problemas de requisição e ajustes na página de busca
+[33m9f12091[m up
+[33m0a13a53[m up
+[33m8aa236d[m up
+[33m4c558ec[m update busca
+[33m65c3fac[m up api
+[33mb64a373[m up api
+[33ma1ac9ca[m up api
+[33m3354b95[m up
+[33m9d03b8a[m update busca
+[33m6774a70[m resolve call: 24/02, updates user
+[33mbdce62a[m Merge pull request #110 from lexifytech/fix/resolving-conflicts-update-busca-merge-promotion-list
+[33m7a012ec[m up
+[33m6dbf1f6[m bug: img mobile
+[33m560f672[m fix gub: whapp
+[33mce21b43[m fix bug: edite negocio global user
+[33m37c83b4[m home/slug
+[33mf30cf88[m home/slug
+[33m80883eb[m[33m ([m[1;31morigin/fix/resolving-conflicts-update-busca-merge-promotion-list[m[33m)[m fix: resolving conflicts
+[33mc92cf40[m update busca
+[33m20b524f[m update busca
+[33m4e44f4c[m bug style: input phone mobile
+[33mbc32859[m bug style: input phone mobile
+[33m8724daa[m bug style: Button log out mobile
+[33m9d6fe86[m up
+[33m1199f0e[m atualizando home
+[33m829bf7b[m up
+[33mec843b5[m up
+[33mdded228[m up
+[33me9ea31d[m up
+[33m2ab1b8c[m up
+[33ma56a252[m up
+[33m66bf1ff[m up
+[33m8f0eeee[m up
+[33m8c3bb6b[m up
+[33mb6583cb[m up
+[33m5685c5d[m up
+[33m29e57f0[m up
+[33m658515d[m up
+[33m0b76a73[m up
+[33mca36d46[m up
+[33m1ad631e[m up
+[33me26e605[m up
+[33me17d129[m up
+[33m65b8a1d[m up
+[33md965451[m up
+[33m375f976[m up
+[33m1ab3596[m update search
+[33m90c5a34[m update search
+[33m76be83e[m add quiz
+[33m5aa6ce9[m up
+[33m79471e1[m fix: link banner
+[33m3e0a0e8[m fix: link share
+[33m730d78e[m fix: link share
+[33md9ed710[m up
+[33m28f56a1[m up
+[33mcce08a2[m up
+[33maa34fc4[m up
+[33m197bc34[m up
+[33m6fe5eba[m Merge branch 'main' of https://github.com/lexifytech/listagreen-next-v2
+[33mbb2c8e0[m up
+[33mf290876[m Merge pull request #108 from lexifytech/dev
+[33m9e31638[m feat: button to access the editing of lists promoted by the screen: /home/lista-promocoes
+[33mb72f3eb[m Merge pull request #107 from lexifytech/dev
+[33me689a6e[m Merge branch 'main' into dev
+[33m9911427[m feat: edit and delete promoted list
+[33m0b3f3a9[m up
+[33m8189eb6[m up
+[33m51fb6ce[m up
+[33m7a6d529[m up
+[33mfcc32a4[m up
+[33m239b89b[m fix: add list button visibility
+[33mb1ab2cc[m Alterações perdidas nos ultimos commits
+[33m9825806[m conflicts
+[33me8ac047[m conflicts
+[33m7c53cf6[m Merge branch 'main' into dev
+[33m8532bb6[m fix: resolvendo conflito
+[33m66eca92[m fix: resolvendo conflito
+[33m9f30208[m up
+[33m13cb181[m up
+[33m276cfb0[m up
+[33m62a9846[m up
+[33m57c3a05[m up
+[33m40f0d54[m fix: corrections to promotional lists
+[33m657a40f[m Merge pull request #103 from lexifytech/dev
+[33mf5d2e53[m fix: correction in pagination
+[33m8e7c963[m fix: correction in pagination
+[33mb0eb365[m fix: correction in pagination
+[33m2918ccf[m verify error in article search
+[33mf132ab9[m verify error in article search
+[33mcaf26ca[m verify error in article search
+[33ma60f371[m fix: correcting error in search
+[33m845b683[m fix: remove company in list
+[33m2323221[m fix: remove company in list
+[33m7268ff1[m feat: remove company in list
+[33mb67c6f0[m fix: final corrections
+[33mf87d4d8[m Merge branch 'main' of https://github.com/lexifytech/listagreen-next-v2
+[33m8346fe4[m up
+[33mfb5b1d0[m Merge pull request #102 from lexifytech/dev
+[33m9768a9a[m fix: correciont in modify member status
+[33mb492f6c[m Merge pull request #101 from lexifytech/dev
+[33m1cafe03[m fix: correcion in edit user end promoted list
+[33mc3a60be[m START PWA
+[33m648ea73[m Merge pull request #100 from lexifytech/dev
+[33mbc61032[m Merge branch 'main' into dev
+[33m09c1336[m up
+[33m6e0a03a[m up
+[33m2139821[m feat: check user admin can edit companies and add message when not returning anything in search
+[33mc696297[m Merge pull request #99 from lexifytech/dev
+[33m403bafe[m fix: display navigation only if there is more than one page
+[33m5546b3b[m fix: correcting double loading in search
+[33m60459aa[m fix-greenflix
+[33m0537ada[m Merge pull request #98 from lexifytech/dev
+[33m15180f5[m fix: correct search to ignore accents and special characters
+[33ma0f2f7c[m return update page greenflix: material de apoio, thumbs
+[33mb603803[m page greenflix
+[33mf2efc37[m update page greenflix: material de apoio, thumbs
+[33m998eacb[m fix: transforming search response into JavaScript object
+[33m28a1b17[m fix: adjustment in the typing of lists to insert companies in the lists
+[33ma02463c[m fix: optimize listing and company searches
+[33mae94e54[m feat: add description when adding company to list
+[33m8aaa156[m feat: display promoted list only to member and admin users
+[33m77c2234[m fix: corrections and suggestions, manage user and user interests
+[33m9513f9d[m greenflix
+[33m505cabc[m Merge pull request #97 from lexifytech/dev
+[33ma9740ba[m fix: corrections in company searches and lists
+[33m6100422[m Merge pull request #96 from lexifytech/dev
+[33m05c2aec[m fix: correction in GetCompaniesWorkKey - GET(request: NextRequest)
+[33mf2279d2[m feat: adjustments to the search screen and search queries
+[33m6a6ad76[m adjust item sharing
+[33m0c066d2[m fix: show lists and businesses by user interests
+[33m0b5be62[m Merge pull request #95 from lexifytech/dev
+[33mead01cb[m fix: correcting business properties
+[33m52c7674[m adjustments to page responsiveness
+[33m820aafb[m Resolving conflicts between dev and main
+[33mc9de528[m bug: fetchSuggestArticles
+[33m9094089[m up
+[33m2a8def5[m add company Negociocard
+[33mbcc468d[m up
+[33m3ade4af[m update api external
+[33me0d2b02[m fix: improving ui in adding company
+[33m2af86e6[m fix: improving ui in adding company
+[33mc4dd8f0[m feat: add button card edit companie
+[33m13d45b6[m fix: improvement in pamper design
+[33m7bafef7[m fix: removing duplicate email icon
+[33mfce1e6e[m feat: update dynamic seo article
+[33mf42e156[m feat: create dynamic seo article
+[33m1278f5c[m remove trash icon
+[33m6f556af[m add Analytics vercel
+[33m06ca774[m feat: remove payment screen
+[33m143d76f[m feat: payment
+[33md156439[m fix: get suggests
+[33mcd2336d[m notification error to user
+[33m3fe8bb3[m feat: login, requests and sharing
+[33m747a87f[m fix: some bugs
+[33m6602188[m remove trash 2 screen
+[33mb6ee585[m remove trash icon
+[33mc5230d4[m fix: ajustes
+[33mfde892e[m feat: update davi
+[33mbca4cc1[m Merge pull request #94 from lexifytech/main
+[33m4f33c44[m Merge pull request #93 from lexifytech/feat/login-list-image-article
+[33m3d083f3[m[33m ([m[1;31morigin/feat/login-list-image-article[m[33m)[m up brach
+[33m3c205aa[m fix: query
+[33me4b5474[m fix: lists
+[33m4e311d7[m database-database
+[33m3fffaa1[m database-database
+[33m9c1addc[m database-database
+[33m1093af4[m Merge pull request #92 from lexifytech/style-article
+[33mb30ff51[m[33m ([m[1;31morigin/style-article[m[33m)[m style: article styles
+[33md6f87d0[m Merge pull request #91 from lexifytech/dev
+[33m14ed894[m feat:images mimo
+[33mb2baede[m feat: prioritize verified businesses on home and search screens
+[33m361c2c7[m feat: list registration
+[33mc8f5782[m feat: suggestion list responsiveness
+[33mb2223af[m Merge pull request #90 from lexifytech/feat/busca
+[33m0bd75dc[m[33m ([m[1;31morigin/feat/busca[m[33m)[m fix: layout
+[33m89de52d[m fix: pwa files
+[33m55eeda2[m first commit
+[33m7f0fa4a[m feat/home
+[33mdeafacf[m Merge pull request #89 from lexifytech/SafeUpdate
+[33ma1063ba[m[33m ([m[1;31morigin/SafeUpdate[m[33m)[m done
+[33m1f38ee7[m Merge pull request #88 from lexifytech/SafeUpdate
+[33m78489e1[m feito
+[33m15a017a[m Merge pull request #87 from lexifytech/SafeUpdate
+[33mbb2fde5[m feitas atualizaçoes 4
+[33m57e5e3f[m Merge pull request #86 from lexifytech/SafeUpdate
+[33mda4cf32[m feitas atualizaçoes
+[33m312a2eb[m feito
+[33m20b5fef[m Merge pull request #85 from lexifytech/SafeUpdate
+[33me2d19bc[m feito
+[33m39da1f1[m feito
+[33ma9113a2[m adicional tasks
+[33m9b2e7b7[m Merge pull request #84 from lexifytech/SafeUpdate
+[33m534a133[m Merge branch 'main' into SafeUpdate
+[33mb1af697[m adicional tasks
+[33m88aeaab[m Merge pull request #83 from lexifytech/fix/banco
+[33m27a8357[m[33m ([m[1;31morigin/fix/banco[m[33m)[m fix: banco
+[33m35dac88[m fix: database path
+[33mfaa5768[m Merge pull request #81 from lexifytech/SafeUpdate
+[33md823012[m feat atualizadas
+[33m18ee7cd[m[33m ([m[1;31morigin/DestaqueUsers[m[33m)[m fixed bugs logs
+[33m58d3410[m fixed bugs logs
+[33m62876ce[m Update .env
+[33m217e11d[m Merge pull request #79 from lexifytech/DestaqueUsers
+[33m04770f6[m Merge pull request #78 from lexifytech/ListagemUsuario
+[33mc468606[m resolvida a task de listagem de usuario em destaque
+[33m0d19b70[m[33m ([m[1;31morigin/ListagemUsuario[m[33m)[m Trouxe as Lista na SideBar
+[33m1ece96b[m Ajustar a listagem de usuarios
+[33m5d4b166[m Update .env
+[33mc221571[m Update .env.production
+[33mb40e1c3[m Merge pull request #77 from lexifytech/meusIntereces
+[33m6c00d4b[m[33m ([m[1;31morigin/meusIntereces[m[33m)[m Meus Intereces sao selecionados depois dele ser uma usuario da app
+[33m7985b3a[m Merge pull request #76 from lexifytech/Sessao_Todos_Artigos
+[33m72ea68f[m Merge pull request #75 from lexifytech/CADASTRO_DE_OFERTANTE
+[33m7347f71[m[33m ([m[1;31morigin/Sessao_Todos_Artigos[m[33m)[m [FEAT] HOME - Na sessão de artigos, adicionar um link 'Ver todos' que direciona para a rota de atigos
+[33m007a4a4[m [FEAT] HOME - Na sessão de artigos, adicionar um link 'Ver todos' que direciona para a rota de atigos
+[33m7f593b1[m[33m ([m[1;31morigin/CADASTRO_DE_OFERTANTE[m[33m)[m [FEAT] CADASTRO DE OFERTANTE - Adicionar o campo 'email'
+[33madcfa46[m Merge pull request #74 from lexifytech/SaveInterstingButton
+[33m86c5503[m[33m ([m[1;31morigin/SaveInterstingButton[m[33m)[m refetoring : refatoracao do codigo userContext
+[33m326428e[m refetoring : Remove header hardcoded data
+[33mad76ab0[m adicionado o ToastContainer para apresentar as mensagens de done undone
+[33m2bb73a4[m updates do .env e o .env.prodution
+[33m94fa7e0[m Merge pull request #73 from lexifytech/fix/gerenciarUsers
+[33m1cad45a[m feat: gerenciarUsers searchBar & responsivity
+[33m249857a[m Atualizar o README.md
+[33m4245d0e[m Merge pull request #72 from yurinekan/feat/videohub
